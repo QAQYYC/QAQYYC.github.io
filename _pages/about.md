@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Yu Yechen**, a junior undergraduate interested in artificial intelligence.
+I'm **Yechen Yu**, a junior undergraduate interested in artificial intelligence.
 
 In my freshman year, I joined the ACM association and won **the bronze medals** of ICPC Hong Kong Regional Competition and CCPC Zhengzhou Regional Competition in my sophomore year. Meanwhile, I spent a year of research in the time series group at Wuhan University of Technology, focusing on **time series forecasting model architecture**.
 
