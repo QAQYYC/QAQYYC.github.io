@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm **Yechen Yu**, a junior undergraduate interested in artificial intelligence.
+I am **Yechen Yu**, a junior undergraduate student with a strong interest in **artificial intelligence**.
 
-In my freshman year, I joined the ACM association and won **the bronze medals** of ICPC Hong Kong Regional Competition and CCPC Zhengzhou Regional Competition in my sophomore year. Meanwhile, I spent a year of research in the time series group at Wuhan University of Technology, focusing on **time series forecasting model architecture**.
+During my undergraduate studies, I joined the **ACM Association** in my freshman year and received **bronze medals** in both the **ICPC Hong Kong Regional Contest** and the **CCPC Zhengzhou Regional Contest** in my sophomore year. I also spent a year conducting research with the **Time Series Group** at **Wuhan University of Technology**, where my work focused on **architectural design for time series forecasting models**.
 
-I hope to make a small contribution to artificial intelligence in the future. Feel free to email me anytime to discuss related areas of work!😄
+I am passionate about advancing my understanding of AI and aspire to make meaningful contributions to the field in the future. Please feel free to contact me if you’d like to discuss related research areas.
+
 
 # 📅News
 [2025.10] I won a bronze medal at the ICPC Chengdu Regionals.
