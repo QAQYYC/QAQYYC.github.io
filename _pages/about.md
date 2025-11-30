@@ -17,13 +17,13 @@ focused on **architectural design for time series forecasting models**.
 I am passionate about advancing my understanding of AI and aspire to make meaningful contributions to the field in the
 future. Please feel free to contact me if you’d like to discuss related research areas.😄
 
-# 🔬Research Skills
+# 🔬 Research Skills
 
-- 💪**Strongly self-motivated and passionate about research:** I am experienced in deep learning model replication and optimization,
+- 💪 **Strongly self-motivated and passionate about research:** I am experienced in deep learning model replication and optimization,
   and able to independently deploy and fine-tune large language models(🤖LLMs).
-- 💻**Excellent algorithm design and code implementation capabilities:**
+- 💻 **Excellent algorithm design and code implementation capabilities:**
 
-# 📅News
+# 📅 News
 
 [2025.10] I won a bronze medal at the ICPC Chengdu Regionals.
 
@@ -34,4 +34,4 @@ Prof. [Liang Xie](http://ssci.whut.edu.cn/szdw/zrjs/202309/t20230921_939468.shtm
 
 [2024.11] I won a bronze medal at the CCPC Zhengzhou Regionals.
 
-# 📖Papers
+# 📖 Publications
