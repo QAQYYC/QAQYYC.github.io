@@ -27,14 +27,14 @@ future. Please feel free to contact me if you’d like to discuss related resear
 <br>
 # 📅 News
 
-[2025.10] I won a bronze medal at the ICPC Chengdu Regionals.
+- [2025.10] I won a bronze medal at the ICPC Chengdu Regionals.
 
-[2025.03] I started working on time series forecasting architecture under the guidance of
+- [2025.03] I started working on time series forecasting architecture under the guidance of
 Prof. [Liang Xie](http://ssci.whut.edu.cn/szdw/zrjs/202309/t20230921_939468.shtml).
 
-[2024.12] I won a bronze medal at the ICPC Hong Kong Regionals.
+- [2024.12] I won a bronze medal at the ICPC Hong Kong Regionals.
 
-[2024.11] I won a bronze medal at the CCPC Zhengzhou Regionals.
+- [2024.11] I won a bronze medal at the CCPC Zhengzhou Regionals.
 
 <br>
 # 📖 Publications
