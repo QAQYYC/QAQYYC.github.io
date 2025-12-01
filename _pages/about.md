@@ -20,20 +20,23 @@ future. Please feel free to contact me if you’d like to discuss related resear
 <br>
 # 🔬 Research Skills
 
-- 💪 **Strongly self-motivated and passionate about research:** I am experienced in deep learning model replication and optimization,
+- 💪 **Strongly self-motivated and passionate about research:** I am experienced in deep learning model replication and
+  optimization,
   and able to independently deploy and fine-tune large language models(🤖LLMs).
-- 💻 **Excellent algorithm design and code implementation capabilities:**
+- 💻 **Excellent algorithm design and code implementation capabilities:** I won a Bronze Medal at the ICPC 2024 Regionals
+  and currently have a Codeforces Rating of [<span style="color: blue;">1777</span>](https://codeforces.com/profile/TheEndd). This is the template of the algorithm I used for the
+  competition [Link](https://github.com/QAQYYC/ACM-Template). During my research, I employed PyTorch Profiler and
+  TensorBoard for systematic performance profiling and optimization, significantly improving model computational
+  efficiency.
+- 📐 **Theoretical derivation capability:**
 
 <br>
 # 📅 News
 
 - [2025.10] I won a bronze medal at the ICPC Chengdu Regionals.
-
 - [2025.03] I started working on time series forecasting architecture under the guidance of
-Prof. [Liang Xie](http://ssci.whut.edu.cn/szdw/zrjs/202309/t20230921_939468.shtml).
-
+  Prof. [Liang Xie](http://ssci.whut.edu.cn/szdw/zrjs/202309/t20230921_939468.shtml).
 - [2024.12] I won a bronze medal at the ICPC Hong Kong Regionals.
-
 - [2024.11] I won a bronze medal at the CCPC Zhengzhou Regionals.
 
 <br>
