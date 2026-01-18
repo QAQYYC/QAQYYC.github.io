@@ -24,9 +24,7 @@ future. Please feel free to contact me if you’d like to discuss related resear
 
 # 🔬 Research Skills
 
-- 💪 **Strongly self-motivated and passionate about research:** I am experienced in deep learning model replication and
-  optimization,
-  and able to independently deploy and fine-tune large language models(🤖LLMs).
+- 💪 **Strongly self-motivated and passionate about research:** My experience includes systematic replication and improvement of deep learning models, as well as practical deployment and fine-tuning of large language models, bridging theoretical understanding with empirical validation.
 
 
 - 💻 **Excellent algorithm design and code implementation capabilities:** I won **bronze medals** at the ICPC 2024 Regionals
