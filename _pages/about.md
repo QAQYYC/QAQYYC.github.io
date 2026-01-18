@@ -67,7 +67,7 @@ Demonstrated strong problem-solving skills in algorithms and data structures, wi
 
 
 - **CCF Certified Software Professional (CSP)** \
-🏅 Score: 300 / 300 \
+🔹 Score: 300 \
 Ranked in the Top 3% nationwide (40th CCF CSP examination).
 
 
