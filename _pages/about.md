@@ -83,5 +83,9 @@ Specialized in graph algorithms, data structures, and competitive programming op
 - **National Scholarship (China)** ×1
 - **Merit Student of Wuhan University of Technology** ×1
 
+<br>
+
+# 💻 Projections
+
 
 
