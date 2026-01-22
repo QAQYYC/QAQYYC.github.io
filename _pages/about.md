@@ -89,10 +89,10 @@ Specialized in graph algorithms, data structures, and competitive programming op
 
 ## MiniMind (LLM Built from Scratch)
 
-- 👉**Model Architecture:** Developed a **LLaMA-like** language model from scratch using **PyTorch**, implementing core architectural components including **RoPE** (Rotary Positional Embeddings), **RMSNorm**, and **SwiGLU** activation functions.
+- **Model Architecture:** Developed a **LLaMA-like** language model from scratch using **PyTorch**, implementing core architectural components including **RoPE** (Rotary Positional Embeddings), **RMSNorm**, and **SwiGLU** activation functions.
 
-- 👉**Training Pipeline:** Engineered an end-to-end training pipeline encompassing both **Pretraining** on raw text and **Supervised Fine-Tuning (Full SFT)** for instruction following.
+- **Training Pipeline:** Engineered an end-to-end training pipeline encompassing both **Pretraining** on raw text and **Supervised Fine-Tuning (Full SFT)** for instruction following.
 
-- 👉**Inference Optimization:** Deployed a text generation script featuring **KV Cache** optimization for reduced latency and integrated **Top-p/Temperature** sampling for diverse, streaming responses.
+- **Inference Optimization:** Deployed a text generation script featuring **KV Cache** optimization for reduced latency and integrated **Top-p/Temperature** sampling for diverse, streaming responses.
 
 
