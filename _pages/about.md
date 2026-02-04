@@ -85,6 +85,27 @@ Specialized in graph algorithms, data structures, and competitive programming op
 
 <br>
 
+# ✍️ Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[1] LOSTFormer: Linear Orthogonal Spatio-Temporal  Transformer with Learnable Rotation**
+
+**Yechen Yu**, Liang Xie, Jiankai Zheng, Peilin Tan
+
+**Accepted by DASFAA 2026**
+
+**Short Summary:** LOSTFormer is a linear spatio-temporal Transformer that uses learnable orthogonal rotation attention to efficiently model full spatio-temporal dependencies, achieving state-of-the-art forecasting accuracy with linear complexity.
+
+<a href="https://github.com/QAQYYC/LOSTFormer"><img src="https://img.shields.io/github/stars/QAQYYC/LOSTFormer.svg" alt="Star Count"></a>
+
+</div>
+</div>
+
+
+<br>
+
 # 💻 Projections
 
 ## MiniMind (LLM Built from Scratch)
