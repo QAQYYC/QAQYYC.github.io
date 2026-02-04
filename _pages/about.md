@@ -87,7 +87,7 @@ Specialized in graph algorithms, data structures, and competitive programming op
 
 # ✍️ Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="60%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] LOSTFormer: Linear Orthogonal Spatio-Temporal  Transformer with Learnable Rotation**
