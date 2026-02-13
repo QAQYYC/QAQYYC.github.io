@@ -31,7 +31,7 @@ future. Please feel free to contact me if you’d like to discuss related resear
   and currently have a Codeforces Rating of [<span style="color: blue;">**1777**</span>](https://codeforces.com/profile/TheEndd). In addition, I have fully implemented the entire workflow for small-scale language models, **from pre-training to SFT**, enabling them to conduct conversations of a certain quality. Further details can be found in the Projection section of this paper.
 
 
-- 📐 **Theoretical derivation capability:** In the course of exploring efficient attention mechanisms, I conducted theoretical analyses and derivations related to **Performer**. To better align with my subsequent research directions, I also carried out theoretical derivations of several hashing methods, including **Spectral Hashing**, **Locality-Sensitive Hashing (LSH)**, and **Asymmetric Deep Supervised Hashing (ADSH)**.
+- 📐 **Theoretical derivation capability:** In the course of exploring efficient attention mechanisms, I undertook theoretical analysis and derivation of certain lemmas and theorems within the **Performer** framework.. To better align with my subsequent research directions, I also carried out theoretical derivations of several hashing methods, including **Spectral Hashing**, **Locality-Sensitive Hashing (LSH)**, and **Asymmetric Deep Supervised Hashing (ADSH)**.
 
 <br>
 
