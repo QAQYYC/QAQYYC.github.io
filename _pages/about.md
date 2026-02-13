@@ -15,7 +15,7 @@ I am a third-year undergraduate student majoring in Information and Computing Sc
 
 In terms of research, I joined a time series research group in the second semester of my sophomore year, where I have been working on the design of efficient spatiotemporal forecasting architectures. During this period, I proposed LOSTFormer as the first author, a linear spatio-temporal Transformer with learnable orthogonal rotation attention, which significantly enhances model representational capacity while preserving theoretical consistency and linear computational complexity. The corresponding paper is currently under review.
 
-At present, my research focus has expanded to applications of Learning to Hash, and I aspire to pursue further research in **LLM Long Context Modeling**, **Time Series Forecasting** and **ML systems (MLSys)**. In terms of engineering and competitive programming, I have received multiple awards in ICPC, CCPC, CCF-CSP, and other national-level programming competitions, demonstrating strong proficiency in algorithm design and system-level implementation.
+At present, my research focus has expanded to applications of Learning to Hash, and I aspire to pursue further research in **LLM Long Context Modeling** and **Time Series Forecasting**. In terms of engineering and competitive programming, I have received multiple awards in ICPC, CCPC, CCF-CSP, and other national-level programming competitions, demonstrating strong proficiency in algorithm design and system-level implementation.
 
 I am passionate about advancing my understanding of Machine Learning and aspire to make meaningful contributions to the field in the
 future. Please feel free to contact me if you’d like to discuss related research areas.😄
