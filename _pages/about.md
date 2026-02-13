@@ -108,7 +108,7 @@ Specialized in graph algorithms, data structures, and competitive programming op
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICML 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[1] Anoymous Paper**
+**[2] Anoymous Paper**
 
 **Second author**
 
