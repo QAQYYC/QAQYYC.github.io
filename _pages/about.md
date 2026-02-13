@@ -37,16 +37,18 @@ future. Please feel free to contact me if you’d like to discuss related resear
 
 # 📅 News
 
-- [2025.11] I won a bronze medal at the ICPC Wuhan Regionals.
+- [2026.01] 🎉Our paper [LOSTFormer](https://github.com/QAQYYC/LOSTFormer) has been accepted by DASFAA 2026!
 
-- [2025.10] I won a bronze medal at the ICPC Chengdu Regionals.
+- [2025.11] We won a bronze medal at the ICPC Wuhan Regionals.
+
+- [2025.10] We won a bronze medal at the ICPC Chengdu Regionals.
 
 - [2025.03] I started working on time series forecasting architecture under the guidance of
   Prof. [Liang Xie](http://ssci.whut.edu.cn/szdw/zrjs/202309/t20230921_939468.shtml).
 
-- [2024.12] I won a bronze medal at the ICPC Hong Kong Regionals.
+- [2024.12] We won a bronze medal at the ICPC Hong Kong Regionals.
 
-- [2024.11] I won a bronze medal at the CCPC Zhengzhou Regionals.
+- [2024.11] We won a bronze medal at the CCPC Zhengzhou Regionals.
 
 <br>
 
@@ -87,7 +89,7 @@ Specialized in graph algorithms, data structures, and competitive programming op
 
 # ✍️ Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/paper_main/LOSTFormer.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[1] LOSTFormer: Linear Orthogonal Spatio-Temporal  Transformer with Learnable Rotation**
@@ -99,6 +101,21 @@ Specialized in graph algorithms, data structures, and competitive programming op
 **Short Summary:** LOSTFormer is a linear spatio-temporal Transformer that uses learnable orthogonal rotation attention to efficiently model full spatio-temporal dependencies, achieving state-of-the-art forecasting accuracy with linear complexity.
 
 <a href="https://github.com/QAQYYC/LOSTFormer"><img src="https://img.shields.io/github/stars/QAQYYC/LOSTFormer.svg" alt="Star Count"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICML 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[1] Anoymous Paper**
+
+**Second author**
+
+**Submitted to ICML 2026**
+
+[//]: # (**Short Summary:** LOSTFormer is a linear spatio-temporal Transformer that uses learnable orthogonal rotation attention to efficiently model full spatio-temporal dependencies, achieving state-of-the-art forecasting accuracy with linear complexity.)
+
 
 </div>
 </div>
