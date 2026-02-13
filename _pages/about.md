@@ -52,41 +52,6 @@ future. Please feel free to contact me if you’d like to discuss related resear
 
 <br>
 
-# 🏆 Honors & Awards
-
-## Programming Competitions
-
-- **ICPC\CCPC International Collegiate Programming Contest** \
-🥉 Regional Bronze Medalist (Hong Kong, Chengdu, Wuhan, Zhengzhou) \
-Demonstrated strong problem-solving skills in algorithms and data structures, with a particular focus on graph theory and advanced data structures.
-
-
-- **Group Programming Ladder Tournament (GPLT)** \
-🥈 Individual Second Prize \
-🥈 Team Second Prize (Ranked 1st within the team)
-
-
-- **CCF Certified Software Professional (CSP)** \
-🔹 Score: 300 \
-Ranked in the Top 3% nationwide (40th CCF CSP examination).
-
-
-- **RAICOM Robotics Development Competition 2025** \
-🥇 National Final – Programming Skills Track \
-Achieved **full score**, demonstrating excellence in algorithmic implementation and engineering robustness.
-
-
-- **Codeforces** \
-🔹 Max Rating: [<span style="color: blue;">**1777**</span>](https://codeforces.com/profile/TheEndd) \
-Specialized in graph algorithms, data structures, and competitive programming optimization. \
-👉 Contest template: [GitHub Repository](https://github.com/QAQYYC/ACM-Template)
-
-## Honors & Scholarships
-- **National Scholarship (China)** ×1
-- **Merit Student of Wuhan University of Technology** ×1
-
-<br>
-
 # ✍️ Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Accepted by DASFAA 2026</div><img src='images/paper_main/LOSTFormer.png' alt="sym" width="80%"></div></div>
@@ -133,5 +98,44 @@ Specialized in graph algorithms, data structures, and competitive programming op
 - **Training Pipeline:** Engineered an end-to-end training pipeline encompassing both **Pretraining** on raw text and **Supervised Fine-Tuning (Full SFT)** for instruction following.
 
 - **Inference Optimization:** Deployed a text generation script featuring **KV Cache** optimization for reduced latency and integrated **Top-p/Temperature** sampling for diverse, streaming responses.
+
+<br>
+
+# 🏆 Honors & Awards
+
+## Programming Competitions
+
+- **ICPC\CCPC International Collegiate Programming Contest** \
+🥉 Regional Bronze Medalist (Hong Kong, Chengdu, Wuhan, Zhengzhou) \
+Demonstrated strong problem-solving skills in algorithms and data structures, with a particular focus on graph theory and advanced data structures.
+
+
+- **Group Programming Ladder Tournament (GPLT)** \
+🥈 Individual Second Prize \
+🥈 Team Second Prize (Ranked 1st within the team)
+
+
+- **CCF Certified Software Professional (CSP)** \
+🔹 Score: 300 \
+Ranked in the Top 3% nationwide (40th CCF CSP examination).
+
+
+- **RAICOM Robotics Development Competition 2025** \
+🥇 National Final – Programming Skills Track \
+Achieved **full score**, demonstrating excellence in algorithmic implementation and engineering robustness.
+
+
+- **Codeforces** \
+🔹 Max Rating: [<span style="color: blue;">**1777**</span>](https://codeforces.com/profile/TheEndd) \
+Specialized in graph algorithms, data structures, and competitive programming optimization. \
+👉 Contest template: [GitHub Repository](https://github.com/QAQYYC/ACM-Template)
+
+## Honors & Scholarships
+- **National Scholarship (China)** ×1
+- **Merit Student of Wuhan University of Technology** ×1
+
+
+
+
 
 
