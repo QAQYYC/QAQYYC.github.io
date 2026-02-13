@@ -89,18 +89,6 @@ future. Please feel free to contact me if you’d like to discuss related resear
 
 <br>
 
-# 💻 Projections
-
-## MiniMind (LLM Built from Scratch)
-
-- **Model Architecture:** Developed a **LLaMA-like** language model from scratch using **PyTorch**, implementing core architectural components including **RoPE** (Rotary Positional Embeddings), **RMSNorm**, and **SwiGLU** activation functions.
-
-- **Training Pipeline:** Engineered an end-to-end training pipeline encompassing both **Pretraining** on raw text and **Supervised Fine-Tuning (Full SFT)** for instruction following.
-
-- **Inference Optimization:** Deployed a text generation script featuring **KV Cache** optimization for reduced latency and integrated **Top-p/Temperature** sampling for diverse, streaming responses.
-
-<br>
-
 # 🏆 Honors & Awards
 
 ## Programming Competitions
@@ -133,6 +121,21 @@ Specialized in graph algorithms, data structures, and competitive programming op
 ## Honors & Scholarships
 - **National Scholarship (China)** ×1
 - **Merit Student of Wuhan University of Technology** ×1
+
+<br>
+
+# 💻 Projections
+
+## MiniMind (LLM Built from Scratch)
+
+- **Model Architecture:** Developed a **LLaMA-like** language model from scratch using **PyTorch**, implementing core architectural components including **RoPE** (Rotary Positional Embeddings), **RMSNorm**, and **SwiGLU** activation functions.
+
+- **Training Pipeline:** Engineered an end-to-end training pipeline encompassing both **Pretraining** on raw text and **Supervised Fine-Tuning (Full SFT)** for instruction following.
+
+- **Inference Optimization:** Deployed a text generation script featuring **KV Cache** optimization for reduced latency and integrated **Top-p/Temperature** sampling for diverse, streaming responses.
+
+
+
 
 
 
