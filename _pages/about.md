@@ -11,13 +11,17 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year undergraduate student majoring in Information and Computing Science at the School of Mathematics and Statistics, Wuhan University of Technology. 
+Hi, I’m Yechen Yu, a third-year undergraduate student in Information and Computing Science at the School of Mathematics and Statistics, Wuhan University of Technology.
 
-At present, my research focus has expanded to applications of Learning to Hash, and I aspire to pursue further research in **LLM Long Context Modeling** and **Time Series Forecasting**. 
+My current research interests lie primarily in:
 
-I am open to **collaboration opportunities**—please feel free to reach out!
+- Learning to Hash and its applications
 
+- LLM Long Context Modeling
 
+- Spatio-temporal Modeling
+
+I am also open to collaboration opportunities—please feel free to reach out!
 
 
 <br>
