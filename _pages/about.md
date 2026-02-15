@@ -21,7 +21,7 @@ My current research interests lie primarily in:
 
 - Spatio-temporal Modeling
 
-I am also open to collaboration opportunities—please feel free to reach out!
+I am also open to **collaboration opportunities**—please feel free to reach out!
 
 
 <br>
