@@ -13,25 +13,24 @@ redirect_from:
 
 I am a third-year undergraduate student majoring in Information and Computing Science at the School of Mathematics and Statistics, Wuhan University of Technology. 
 
-In terms of research, I joined a time series research group in the second semester of my sophomore year, where I have been working on the design of efficient spatiotemporal forecasting architectures. 
+At present, my research focus has expanded to applications of Learning to Hash, and I aspire to pursue further research in **LLM Long Context Modeling** and **Time Series Forecasting**. 
 
-At present, my research focus has expanded to applications of Learning to Hash, and I aspire to pursue further research in **LLM Long Context Modeling** and **Time Series Forecasting**. In terms of engineering and competitive programming, I have received multiple awards in ICPC, CCPC, CCF-CSP, and other national-level programming competitions, demonstrating strong proficiency in algorithm design.
+I am open to **collaboration opportunities**—please feel free to reach out!
 
-I am passionate about advancing my understanding of Machine Learning and aspire to make meaningful contributions to the field in the
-future. Please feel free to contact me if you’d like to discuss related research areas.😄
+
+
 
 <br>
 
 # 🔬 Research Skills
 
-- 💪 **Strongly self-motivated and passionate about research:** My experience includes systematic replication and improvement of deep learning models, as well as practical deployment and fine-tuning of large language models, bridging theoretical understanding with empirical validation.
+- **Research Experience**: Participated in the replication and improvement of deep learning models, as well as the deployment and fine-tuning of large language models, with experience connecting theoretical analysis to empirical validation.
 
+- **Algorithm & Implementation**: Awarded a bronze medal at the ICPC 2024 Regionals. Implemented the full training pipeline for small-scale language models, from pre-training to supervised fine-tuning (SFT), enabling basic conversational capability.
 
-- 💻 **Excellent algorithm design and code implementation capabilities:** I won **bronze medals** at the ICPC 2024 Regionals
-  and currently have a Codeforces Rating of [<span style="color: blue;">**1777**</span>](https://codeforces.com/profile/TheEndd). In addition, I have fully implemented the entire workflow for small-scale language models, **from pre-training to SFT**, enabling them to conduct conversations of a certain quality. Further details can be found in the Projection section of this paper.
+- **Theoretical Analysis**: Conducted theoretical analysis within the Performer framework and explored derivations related to hashing methods, including Spectral Hashing, LSH, and ADSH.
 
-
-- 📐 **Theoretical derivation capability:** In the course of exploring efficient attention mechanisms, I undertook theoretical analysis and derivation of certain lemmas and theorems within the **Performer** framework.. To better align with my subsequent research directions, I also carried out theoretical derivations of several hashing methods, including **Spectral Hashing**, **Locality-Sensitive Hashing (LSH)**, and **Asymmetric Deep Supervised Hashing (ADSH)**.
+- **English proficiency**: I have passed the CET-4 and CET-6 examinations. I possess experience in independently drafting academic papers and maintain a daily habit of reading scholarly literature.
 
 <br>
 
