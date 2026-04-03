@@ -15,6 +15,8 @@ Hi, I’m Yechen Yu, a third-year undergraduate student in Information and Compu
 
 My current research interests lie primarily in:
 
+- Knowledge Editing
+
 - Learning to Hash and its applications
 
 - LLM Long Context Modeling
