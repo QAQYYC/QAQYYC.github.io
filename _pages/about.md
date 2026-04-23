@@ -113,9 +113,6 @@ I am also open to **collaboration opportunities**—please feel free to reach ou
 </div>
 
 
-</div>
-</div>
-
 
 <br>
 
