@@ -82,8 +82,33 @@ I am also open to **collaboration opportunities**—please feel free to reach ou
 
 **Submitted to ICML 2026**
 
-[//]: # (**Short Summary:** LOSTFormer is a linear spatio-temporal Transformer that uses learnable orthogonal rotation attention to efficiently model full spatio-temporal dependencies, achieving state-of-the-art forecasting accuracy with linear complexity.)
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[3] MaGNet: A Mamba Dual-Hypergraph Network for Stock Prediction via Temporal-Causal and Global Relational Learning**
+
+**Second author**
+
+<a href="https://arxiv.org/abs/2511.00085"><img src="https://img.shields.io/badge/Arxiv-MaGNet-da282a" alt="Star Count"></a>
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[4] H3M-SSMoEs: Hypergraph-based Multimodal Learning with LLM Reasoning and Style-Structured Mixture of Experts**
+
+**Second author**
+
+<a href="https://arxiv.org/abs/2510.25091"><img src="https://img.shields.io/badge/Arxiv-H3MSSMoEs-da282a" alt="Star Count"></a>
+
+</div>
+</div>
 
 
 </div>
