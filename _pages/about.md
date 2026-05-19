@@ -19,8 +19,6 @@ My current research interests lie primarily in:
 
 - Learning to Hash and its applications
 
-- LLM Long Context Modeling
-
 - Spatio-temporal Modeling
 
 I am also open to **collaboration opportunities**—please feel free to reach out!
@@ -75,14 +73,14 @@ I am also open to **collaboration opportunities**—please feel free to reach ou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to ICML 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to NIPS 2026</div><img src='images/paper_main/coming_soon.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[2] Anoymous Paper**
 
 **Second author**
 
-**Submitted to ICML 2026**
+**Submitted to NIPS 2026**
 
 
 </div>
