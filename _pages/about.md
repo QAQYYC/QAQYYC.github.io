@@ -30,7 +30,7 @@ I am also open to **collaboration opportunities**—please feel free to reach ou
 
 - **Research Experience**: Participated in the replication and improvement of deep learning models, as well as the deployment and fine-tuning of large language models, with experience connecting theoretical analysis to empirical validation.
 
-- **Algorithm & Implementation**: Awarded a bronze medal at the ICPC 2024 Regionals. Implemented the full training pipeline for small-scale language models, from pre-training to supervised fine-tuning (SFT), enabling basic conversational capability.
+- **Algorithm & Implementation**: ICPC Hubei Provincial runner-up; gold at the Xi'an and Wuhan invitation contests; bronze at three ICPC regionals (Hong Kong, Chengdu, Wuhan). Implemented the full training pipeline for small-scale language models, from pre-training to supervised fine-tuning (SFT), enabling basic conversational capability.
 
 - **Theoretical Analysis**: Conducted theoretical analysis within the Performer framework and explored derivations related to hashing methods, including Spectral Hashing, LSH, and ADSH.
 
@@ -118,10 +118,17 @@ I am also open to **collaboration opportunities**—please feel free to reach ou
 
 ## Programming Competitions
 
-- **ICPC\CCPC International Collegiate Programming Contest** \
-🥉 Regional Bronze Medalist (Hong Kong, Chengdu, Wuhan, Zhengzhou) \
-Demonstrated strong problem-solving skills in algorithms and data structures, with a particular focus on graph theory and advanced data structures.
+- **ICPC International Collegiate Programming Contest** \
+🥈 Hubei Provincial Runner-up \
+🥇 Gold Medalist (Xi'an & Wuhan Invitation Contests) \
+🥉 Regional Bronze Medalist (Hong Kong, Chengdu, Wuhan) \
+Demonstrated strong problem-solving skills in algorithms and data structures, with a particular focus on graph theory and advanced data structures. At the Hong Kong regional and the CCPC Zhengzhou regional, held the highest Codeforces rating on the team when awarded.
 
+- **CCPC China Collegiate Programming Contest** \
+🥉 Zhengzhou Regional Bronze Medalist
+
+- **MCM/ICM (Mathematical Contest in Modeling)** \
+Honorable Mention
 
 - **Group Programming Ladder Tournament (GPLT)** \
 🥈 Individual Second Prize \
