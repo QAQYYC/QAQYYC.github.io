@@ -168,7 +168,11 @@ Specialized in graph algorithms, data structures, and competitive programming op
 
 <br>
 
+<div class="text-center">
+
 <a href="https://mapmyvisitors.com/web/1c4rz" title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=IS5A9nOegcSDcwZsvLKkY936ztWLbzet1qkKLC_HNnA&cl=ffffff" /></a>
+
+</div>
 
 
 
